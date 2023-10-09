@@ -1,6 +1,8 @@
-# Parse-Preditivo
+# Predictive Parsing
 
-Dada a gramática
+Given the grammar
+
+
 
 ```
 Goal  -> Expr
@@ -17,4 +19,4 @@ Factor -> (Expr)
        |  nome
 ```
 
-Faça um código em java que encontre os conjuntos First e Follow da gramática.
+Create a Java code to find the First and Follow sets of the grammar.
